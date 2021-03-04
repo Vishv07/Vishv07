@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushik Rishi</h1>
+<h1 align="center">Hi 👋, I'm Vishv Kakadiya</h1>
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -6,8 +6,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Kaushik Rishi, A budding developer and Algorithms enthusiast. I am working on Node JS and C++ and planning to Dive deep into languages like C and Java. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁. I am waiting for a position in my life when i have Ample free time to learn C language. I donot have an eye for design [I've aldredy said that 😄 - I use xfce4].
-
+Hello, I’m Vishv Kakadiya, A budding developer and Algorithms enthusiast. I am working on Node JS and Java and planning to Dive deep into languages like Python. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁.
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
