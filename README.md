@@ -26,16 +26,16 @@ Hello, I’m Vishv Kakadiya, A budding developer and Algorithms enthusiast. I am
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/kaushik-rishi">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushik-rishi&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishv07&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/kaushik-rishi/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaushik-rishi&layout=Demo&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishv07&layout=Demo&theme=blue-green" />
 </a>
 
 ## 📫 **Link Tree:**
 <p align="center">
-<a href="https://www.linkedin.com/in/kaushik-rishi-3ab4b5189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushik-rishi" height="40" width="40" /></a>
-<a href="mailto:rishi.cp01@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="kaushik-rishi" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/Vishv07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushik-rishi" height="40" width="40" /></a>
+<a href="mailto:krishnakakadiya9@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Vishv Kakadiya" height="40" width="40" /></a>
 
 
 
