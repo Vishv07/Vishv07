@@ -6,7 +6,8 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Hello, I’m Vishv Kakadiya, A budding developer and Algorithms enthusiast. I am working on Node JS and Java and planning to Dive deep into Backend-Services Stuff. I use linux with xfce4. I am looking forward to learn things at the level of a system trace call 😁.
+Hello, I’m Vishv Kakadiya!
+I'm a software engineer passionate about building scalable backend systems and diving deep into algorithms. My expertise lies in Java, C#, Node.js, and distributed systems, and I'm always eager to explore low-level system internals. I enjoy optimizing performance, solving complex engineering challenges and building at scale. Excited to keep learning and pushing the boundaries of systems!
 ## 🛠️ **Languages & Tools:**
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
